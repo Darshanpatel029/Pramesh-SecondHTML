@@ -7849,3 +7849,7 @@ img {
 .ftrimg {
 	height: 42px !important;
 }
+
+.setPic {
+	background-repeat: no-repeat;
+}
